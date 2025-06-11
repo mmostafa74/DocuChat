@@ -1,0 +1,7 @@
+LangChain is an open-source framework that helps developers build applications powered by large language models (LLMs).
+
+Chroma is a vector database that stores document embeddings and enables semantic search.
+
+Streamlit allows building data apps quickly with minimal effort in Python.
+
+This app uses LangChain with Chroma to answer questions based on documents.
